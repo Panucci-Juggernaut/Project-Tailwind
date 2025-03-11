@@ -21,22 +21,6 @@ A modern, responsive recipe website built with Tailwind CSS. This project showca
 - JavaScript
 - Custom CSS
 
-## Project Structure
-
-```
-├── package.json
-├── README.md
-├── tailwind.config.js
-├── tailwind-default.config.js
-├── public/
-│   ├── index.html
-│   ├── index.js
-│   ├── styles.css
-│   └── img/
-└── src/
-    └── styles.css
-```
-
 ## Customization
 
 The project uses a custom Tailwind configuration file (`tailwind.config.js`) for:
